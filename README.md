@@ -1,4 +1,4 @@
-# Hack1.0
+# Hack1
 Hack 1-Hello World
 
 Haley Shaw
